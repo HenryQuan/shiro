@@ -1,0 +1,2 @@
+# shiro
+A white screen
